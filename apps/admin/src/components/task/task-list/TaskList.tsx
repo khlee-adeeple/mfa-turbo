@@ -1,7 +1,7 @@
 "use client";
-import { Task } from "../../task/task-list/types/Task";
-import TaskLane from "../../task/task-list/TaskLane";
-import TaskHeader from "../../task/TaskHeader";
+import { Task } from "./types/Task";
+import TaskLane from "./TaskLane";
+import TaskHeader from "../TaskHeader";
 import React, { useState } from "react";
 
 const initialTasks: Task[] = [

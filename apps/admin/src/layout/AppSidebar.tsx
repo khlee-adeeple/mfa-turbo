@@ -37,7 +37,7 @@ const navItems: NavItem[] = [
     subItems: [
       { name: "일별 매출 종합 리포트", path: "/" },
       { name: "캠페인 일별 매출 현황", path: "/ag-grid" },
-      { name: "일별 마케터 실적 현황", path: "" },
+      { name: "일별 마케터 실적 현황", path: "/ag-grid-test" },
       { name: "매체 광고비 등록", path: "" },
       { name: "광고주별 종합 리포트", path: "" },
       { name: "캠페인별 상세 리포트", path: "" },

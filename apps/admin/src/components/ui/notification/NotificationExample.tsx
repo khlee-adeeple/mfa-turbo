@@ -1,8 +1,8 @@
 "use client";
 import React from "react";
 import ComponentCard from "../../common/ComponentCard";
-import CookieConsent from "../../ui/notification/CookieConsent";
-import UpdateNotification from "../../ui/notification/UpdateNotification";
+import CookieConsent from "./CookieConsent";
+import UpdateNotification from "./UpdateNotification";
 import Notification from "./Notification";
 
 export default function NotificationExample() {

@@ -1,8 +1,8 @@
 "use client";
 import React from "react";
-import PaginationWithText from "../../ui/pagination/PaginationWithText";
-import PaginationWithTextWithIcon from "../../ui/pagination/PaginationWithTextWitIcon";
-import PaginationWithIcon from "../../ui/pagination/PaginationWitIcon";
+import PaginationWithText from "./PaginationWithText";
+import PaginationWithTextWithIcon from "./PaginationWithTextWitIcon";
+import PaginationWithIcon from "./PaginationWitIcon";
 import ComponentCard from "../../common/ComponentCard";
 
 export default function PaginationExample() {

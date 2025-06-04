@@ -8,7 +8,7 @@ import {
   TableHeader,
   TableRow,
 } from "../../../ui/table";
-import { AngleDownIcon, AngleUpIcon } from "../../icons";
+import { AngleDownIcon, AngleUpIcon } from "../../../../icons";
 import Image from "next/image";
 import PaginationWithIcon from "./PaginationWithIcon";
 

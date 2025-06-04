@@ -9,7 +9,7 @@ import {
 } from "../../ui/table";
 import Badge from "../../ui/badge/Badge";
 import Image from "next/image";
-import { MoreDotIcon } from "../../icons";
+import { MoreDotIcon } from "../../../icons";
 import { Dropdown } from "../../ui/dropdown/Dropdown";
 import { DropdownItem } from "../../ui/dropdown/DropdownItem";
 

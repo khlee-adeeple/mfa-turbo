@@ -3,6 +3,9 @@
   "private": true,
   "scripts": {
     "build": "turbo run build",
+    "build:global": "turbo run build --filter=apps/global",
+    "build:admin": "turbo run build --filter=apps/admin",
+    "build:marketer": "turbo run build --filter=apps/marketer",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "check-types": "turbo run check-types",
